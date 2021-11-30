@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="alreadyHaveAnAccount">Already Have An Account</string>
+
+    <string name="registrationPageTitleName">Android </string>
+</resources>
